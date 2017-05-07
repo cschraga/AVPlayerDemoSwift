@@ -9,6 +9,8 @@ I altered it slightly so that a swipe left and swipe right will skip 15 seconds.
 
 This demo uses Selena Gomez's 'Hands to Myself" video because its a cool video.  Needless to say, I don't own the rights to it.
 
+Use the 'VideoViewController.swift' as a child view controller.  
+
 ## Examples
 
 The video control functions begin on line 636:
@@ -18,3 +20,4 @@ The video control functions begin on line 636:
 * `func rw15()`
 * `func ff15()`
 * `func playClip(startTime: Double, endTime: Double)`
+
